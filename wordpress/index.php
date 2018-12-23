@@ -15,7 +15,7 @@
 
 
 
-if(!isset($_GET['hi'])) header('Location: https://cn.yimian.xyz/loading/blog.php');
+if(!isset($_GET['hi'])) header('Location: https://cn.yimian.xyz/loading/blog.html');
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
