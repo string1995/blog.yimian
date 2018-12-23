@@ -1,0 +1,250 @@
+0000.000 (0) Opened log file at time: Sun, 09 Dec 2018 19:41:01 +0000 on https://blog.yimian.xyz
+0000.142 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.15.7 WP: 5.0 PHP: 7.1.24 (apache2handler, Linux wordpress 3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017 x86_64) MySQL: 5.7.22-log WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.1.24 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5.7M | 6M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.209 (0) Free space on disk containing Updraft's temporary directory: 35958.9 MB
+0000.988 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0001.039 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0001.220 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1544287965, seconds_ago=96497)
+0001.425 (0) Set semaphore last lock (fd) time to 2018-12-09 19:41:02
+0001.484 (0) Semaphore lock (fd) complete
+0001.768 (0) Backup run: resumption=0, nonce=b4f4a6c5607a, begun at=1544384461 (1s ago), job type=backup
+0001.869 (0) Scheduling a resumption (1) after 300 seconds (1544384762) in case this run gets aborted
+0001.986 (0) Checking if we have a zip executable available
+0002.094 (0) Creation of backups of directories: beginning
+0002.301 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.467 (0) Total entities for the zip file: 754 directories, 4214 files (0 skipped as non-modified), 72.6 MB
+0002.521 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.579 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.640 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.693 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.747 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.806 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.8 MB, 4214 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0005.858 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 600 files added (on-disk size: 8712.6 KB)
+0005.915 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 700 files added (on-disk size: 8712.6 KB)
+0005.968 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 800 files added (on-disk size: 8712.6 KB)
+0006.021 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 900 files added (on-disk size: 8712.6 KB)
+0006.075 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1000 files added (on-disk size: 8712.6 KB)
+0006.126 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 4214 files batched, 501 (1002) added so far); re-opening (prior size: 8712.6 KB)
+0006.480 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1100 files added (on-disk size: 11022.1 KB)
+0006.535 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1200 files added (on-disk size: 11022.1 KB)
+0006.588 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1300 files added (on-disk size: 11022.1 KB)
+0006.642 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1400 files added (on-disk size: 11022.1 KB)
+0006.697 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1500 files added (on-disk size: 11022.1 KB)
+0006.756 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.6 MB, 4214 files batched, 501 (1503) added so far); re-opening (prior size: 11022.1 KB)
+0007.946 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1600 files added (on-disk size: 15376.3 KB)
+0008.001 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1700 files added (on-disk size: 15376.3 KB)
+0008.059 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1800 files added (on-disk size: 15376.3 KB)
+0008.113 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 1900 files added (on-disk size: 15376.3 KB)
+0008.217 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2000 files added (on-disk size: 15376.3 KB)
+0008.277 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 4214 files batched, 501 (2004) added so far); re-opening (prior size: 15376.3 KB)
+0008.615 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2100 files added (on-disk size: 16588.3 KB)
+0008.669 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2200 files added (on-disk size: 16588.3 KB)
+0008.722 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2300 files added (on-disk size: 16588.3 KB)
+0008.781 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2400 files added (on-disk size: 16588.3 KB)
+0008.848 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2500 files added (on-disk size: 16588.3 KB)
+0008.900 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5 MB, 4214 files batched, 501 (2505) added so far); re-opening (prior size: 16588.3 KB)
+0009.302 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2600 files added (on-disk size: 18716 KB)
+0009.356 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2700 files added (on-disk size: 18716 KB)
+0009.410 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2800 files added (on-disk size: 18716 KB)
+0009.464 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 2900 files added (on-disk size: 18716 KB)
+0009.517 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3000 files added (on-disk size: 18716 KB)
+0009.568 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 4214 files batched, 501 (3006) added so far); re-opening (prior size: 18716 KB)
+0010.016 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3100 files added (on-disk size: 20873.8 KB)
+0010.071 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3200 files added (on-disk size: 20873.8 KB)
+0010.134 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3300 files added (on-disk size: 20873.8 KB)
+0010.202 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3400 files added (on-disk size: 20873.8 KB)
+0010.269 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3500 files added (on-disk size: 20873.8 KB)
+0010.326 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 4214 files batched, 501 (3507) added so far); re-opening (prior size: 20873.8 KB)
+0010.747 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3600 files added (on-disk size: 21835.6 KB)
+0010.806 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3700 files added (on-disk size: 21835.6 KB)
+0010.860 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3800 files added (on-disk size: 21835.6 KB)
+0010.919 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 3900 files added (on-disk size: 21835.6 KB)
+0010.973 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 4000 files added (on-disk size: 21835.6 KB)
+0011.024 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.1 MB, 4214 files batched, 501 (4008) added so far); re-opening (prior size: 21835.6 KB)
+0012.599 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 4100 files added (on-disk size: 26591.7 KB)
+0012.652 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip.tmp: 4200 files added (on-disk size: 26591.7 KB)
+0013.362 (0) Created plugins zip (0) - 27656 KB in 11 s (2512 KB/s) (sha1: b9288dee03f825f06a23993e7d285abb7a91c4b4, sha256: d66c2ea813c27fc92fdd3e8e47e73db38b70c7e00f530f3cb5f7bbba799f671f)
+0013.470 (0) Beginning creation of dump of themes (split every: 400 MB)
+0013.579 (0) Total entities for the zip file: 58 directories, 242 files (0 skipped as non-modified), 4.8 MB
+0013.633 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0013.691 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0014.147 (0) Created themes zip (0) - 3069.6 KB in 0.6 s (4922.6 KB/s) (sha1: ad9e2afa93803b62a64054c2751b91e396c3fb05, sha256: 794e366dd28569bb9993ebdabf3985ec62e97a52f75d81b3770012c1e55146e3)
+0014.313 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0014.363 (0) Looking for candidates to backup in: /var/www/html/wordpress/wp-content/uploads
+0014.414 (0) finding files: crayon-syntax-highlighter: adding to list (1)
+0014.468 (0) finding files: 2018: adding to list (2)
+0014.520 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0014.628 (0) Total entities for the zip file: 6 directories, 132 files (0 skipped as non-modified), 26.7 MB
+0014.682 (0) Zip: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.734 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.6 MB, 132 files batched, 129 (129) added so far); re-opening (prior size: 0 KB)
+0014.906 (0) A useful amount of data was added after this amount of zip processing: 1 s (normalised: 1 s, rate: 26288.6 KB/s)
+0015.007 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.0349700450897, normalised_time=0.97380758535037, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=161516918)
+0015.607 (0) Created uploads zip (0) - 27416.9 KB in 1 s (26485.8 KB/s) (sha1: 8ea00e1ce8b766e8df060b345e82bc44aa9d3dd4, sha256: a06574e4815957be8e94f19ba255e3ed0c22a62ace3780058efc1c8657826fd2)
+0015.712 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.763 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0015.813 (0) Looking for candidates to backup in: /var/www/html/wordpress/wp-content
+0015.863 (0) finding files: uploads: skipping: this is the uploads directory
+0015.913 (0) finding files: upgrade: skipping: excluded by options
+0015.967 (0) finding files: cache: skipping: excluded by options
+0016.018 (0) finding files: themes: skipping: this is the themes directory
+0016.074 (0) finding files: plugins: skipping: this is the plugins directory
+0016.124 (0) finding files: updraft: skipping: this is the updraft directory
+0016.174 (0) finding files: index.php: adding to list (1)
+0016.232 (0) finding files: wptouch-data: adding to list (2)
+0016.336 (0) Total entities for the zip file: 12 directories, 3 files (0 skipped as non-modified), 0.2 MB
+0016.550 (0) Created others zip (0) - 49.6 KB in 0.3 s (187.2 KB/s) (sha1: 05422d0b139469f8fe2aebb2581a0e3c2469b30d, sha256: 7e354245e62b644c76d2cc518a2467bc04693340d001255f08fb86bf231fe59c)
+0016.777 (0) Saving backup status to database (elements: 8)
+0016.982 (0) Beginning creation of database dump (WordPress DB)
+0017.348 (0) Table wp_options: Total expected rows (approximate): 347
+0019.990 (0) Table wp_options: Total rows added: 349 in 2.59 seconds
+0020.040 (0) Table wp_options: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_options.table.gz - 136.4 KB)
+0020.306 (0) Table wp_users: Total expected rows (approximate): 1
+0020.537 (0) Table wp_users: Total rows added: 1 in 0.18 seconds
+0020.587 (0) Table wp_users: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_users.table.gz - 0.5 KB)
+0020.782 (0) Table wp_usermeta: Total expected rows (approximate): 26
+0021.023 (0) Table wp_usermeta: Total rows added: 26 in 0.18 seconds
+0021.084 (0) Table wp_usermeta: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_usermeta.table.gz - 2.2 KB)
+0021.310 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0021.599 (0) Table wp_commentmeta: Total rows added: 0 in 0.13 seconds
+0021.649 (0) Table wp_commentmeta: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0021.847 (0) Table wp_comments: Total expected rows (approximate): 4
+0022.084 (0) Table wp_comments: Total rows added: 4 in 0.18 seconds
+0022.134 (0) Table wp_comments: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_comments.table.gz - 1 KB)
+0022.356 (0) Table wp_links: Total expected rows (approximate): 0
+0022.540 (0) Table wp_links: Total rows added: 0 in 0.13 seconds
+0022.593 (0) Table wp_links: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_links.table.gz - 0.4 KB)
+0022.793 (0) Table wp_postmeta: Total expected rows (approximate): 194
+0023.161 (0) Table wp_postmeta: Total rows added: 194 in 0.32 seconds
+0023.223 (0) Table wp_postmeta: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_postmeta.table.gz - 6.7 KB)
+0023.426 (0) Table wp_posts: Total expected rows (approximate): 79
+0024.484 (0) Table wp_posts: Total rows added: 95 in 1.01 seconds
+0024.534 (0) Table wp_posts: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_posts.table.gz - 45 KB)
+0024.739 (0) Table wp_term_relationships: Total expected rows (approximate): 22
+0024.974 (0) Table wp_term_relationships: Total rows added: 22 in 0.18 seconds
+0025.024 (0) Table wp_term_relationships: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0025.227 (0) Table wp_term_taxonomy: Total expected rows (approximate): 15
+0025.461 (0) Table wp_term_taxonomy: Total rows added: 15 in 0.18 seconds
+0025.511 (0) Table wp_term_taxonomy: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0025.707 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0025.891 (0) Table wp_termmeta: Total rows added: 0 in 0.13 seconds
+0025.943 (0) Table wp_termmeta: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_termmeta.table.gz - 0.4 KB)
+0026.146 (0) Table wp_terms: Total expected rows (approximate): 15
+0026.429 (0) Table wp_terms: Total rows added: 15 in 0.18 seconds
+0026.482 (0) Table wp_terms: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_terms.table.gz - 0.6 KB)
+0026.679 (0) Table wp_hermit: Total expected rows (approximate): 1
+0026.909 (0) Table wp_hermit: Total rows added: 1 in 0.18 seconds
+0026.960 (0) Table wp_hermit: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_hermit.table.gz - 0.7 KB)
+0027.161 (0) Table wp_hermit_cat: Total expected rows (approximate): 2
+0027.413 (0) Table wp_hermit_cat: Total rows added: 2 in 0.19 seconds
+0027.470 (0) Table wp_hermit_cat: finishing file (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_hermit_cat.table.gz - 0.3 KB)
+0027.665 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_options.table.gz (1/14): adding to final database dump
+0027.740 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_users.table.gz (2/14): adding to final database dump
+0027.790 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_usermeta.table.gz (3/14): adding to final database dump
+0027.840 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_commentmeta.table.gz (4/14): adding to final database dump
+0027.890 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_comments.table.gz (5/14): adding to final database dump
+0027.940 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_links.table.gz (6/14): adding to final database dump
+0027.990 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_postmeta.table.gz (7/14): adding to final database dump
+0028.050 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_posts.table.gz (8/14): adding to final database dump
+0028.111 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_term_relationships.table.gz (9/14): adding to final database dump
+0028.162 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_term_taxonomy.table.gz (10/14): adding to final database dump
+0028.212 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_termmeta.table.gz (11/14): adding to final database dump
+0028.274 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_terms.table.gz (12/14): adding to final database dump
+0028.326 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_hermit.table.gz (13/14): adding to final database dump
+0028.378 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db-table-wp_hermit_cat.table.gz (14/14): adding to final database dump
+0028.437 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db.gz: finished writing out complete database file (176 KB)
+0028.652 (0) Total database tables backed up: 14 (backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db.gz, size: 197050, sha256)
+0029.083 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0029.142 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0029.215 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0029.277 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-others.zip: others: This file has not yet been successfully uploaded: will queue
+0029.328 (0) backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0029.381 (0) Saving backup history. Total backup size: 57 MB
+0029.572 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0029.724 (0) Cloud backup selection (1/1): ftp with instance (1/1) (last)
+0029.776 (0) Beginning dispatch of backup to remote (ftp) (instance identifier s-cab8302feafe8d460254a9c0d55fe319)
+0030.426 (0) FTP upload attempt: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip -> ftp://wpbackup@yimian.xyz//backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip
+0030.831 (0) Ftp chunked upload: 1.9 % uploaded
+0031.319 (0) Ftp chunked upload: 3.7 % uploaded
+0032.041 (0) Ftp chunked upload: 5.6 % uploaded
+0032.524 (0) Ftp chunked upload: 7.5 % uploaded
+0034.383 (0) Ftp chunked upload: 11.2 % uploaded
+0035.330 (0) Ftp chunked upload: 14.9 % uploaded
+0038.477 (0) Ftp chunked upload: 22.3 % uploaded
+0041.861 (0) Ftp chunked upload: 29.7 % uploaded
+0045.322 (0) Ftp chunked upload: 37.1 % uploaded
+0048.174 (0) Ftp chunked upload: 44.6 % uploaded
+0051.272 (0) Ftp chunked upload: 52 % uploaded
+0054.417 (0) Ftp chunked upload: 59.4 % uploaded
+0057.542 (0) Ftp chunked upload: 66.8 % uploaded
+0060.701 (0) Ftp chunked upload: 74.2 % uploaded
+0064.087 (0) Ftp chunked upload: 81.7 % uploaded
+0066.951 (0) Ftp chunked upload: 89.1 % uploaded
+0070.367 (0) Ftp chunked upload: 96.5 % uploaded
+0072.230 (0) FTP upload attempt successful (27656KB in 41.75s)
+0072.340 (0) Recording as successfully uploaded: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip
+0072.443 (0) Deleting local file: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-plugins.zip: OK
+0072.499 (0) FTP upload attempt: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-themes.zip -> ftp://wpbackup@yimian.xyz//backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-themes.zip
+0073.323 (0) Ftp chunked upload: 16.8 % uploaded
+0074.080 (0) Ftp chunked upload: 33.6 % uploaded
+0074.846 (0) Ftp chunked upload: 50.4 % uploaded
+0075.400 (0) Ftp chunked upload: 67.2 % uploaded
+0076.971 (0) FTP upload attempt successful (3069.6KB in 4.42s)
+0077.072 (0) Recording as successfully uploaded: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-themes.zip
+0077.175 (0) Deleting local file: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-themes.zip: OK
+0077.231 (0) FTP upload attempt: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-uploads.zip -> ftp://wpbackup@yimian.xyz//backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-uploads.zip
+0078.098 (0) Ftp chunked upload: 1.9 % uploaded
+0078.579 (0) Ftp chunked upload: 3.8 % uploaded
+0079.202 (0) Ftp chunked upload: 5.6 % uploaded
+0080.284 (0) Ftp chunked upload: 7.5 % uploaded
+0081.590 (0) Ftp chunked upload: 11.3 % uploaded
+0083.154 (0) Ftp chunked upload: 15 % uploaded
+0086.285 (0) Ftp chunked upload: 22.5 % uploaded
+0089.797 (0) Ftp chunked upload: 30 % uploaded
+0092.551 (0) Ftp chunked upload: 37.5 % uploaded
+0095.671 (0) Ftp chunked upload: 45 % uploaded
+0098.824 (0) Ftp chunked upload: 52.4 % uploaded
+0101.982 (0) Ftp chunked upload: 59.9 % uploaded
+0105.320 (0) Ftp chunked upload: 67.4 % uploaded
+0108.476 (0) Ftp chunked upload: 74.9 % uploaded
+0111.907 (0) Ftp chunked upload: 82.4 % uploaded
+0114.827 (0) Ftp chunked upload: 89.8 % uploaded
+0117.964 (0) Ftp chunked upload: 97.3 % uploaded
+0119.278 (0) FTP upload attempt successful (27416.9KB in 41.98s)
+0119.374 (0) Recording as successfully uploaded: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-uploads.zip
+0119.480 (0) Deleting local file: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-uploads.zip: OK
+0119.530 (0) FTP upload attempt: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-others.zip -> ftp://wpbackup@yimian.xyz//backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-others.zip
+0119.842 (0) FTP upload attempt successful (49.6KB in 0.26s)
+0119.937 (0) Recording as successfully uploaded: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-others.zip
+0120.048 (0) Deleting local file: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-others.zip: OK
+0120.097 (0) FTP upload attempt: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db.gz -> ftp://wpbackup@yimian.xyz//backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db.gz
+0120.633 (0) FTP upload attempt successful (192.4KB in 0.49s)
+0120.732 (0) Recording as successfully uploaded: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db.gz
+0120.845 (0) Deleting local file: backup_2018-12-10-0341_Yimian_Blog_b4f4a6c5607a-db.gz: OK
+0120.990 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=3
+0121.085 (0) Number of backup sets in history: 3; groups (db): 1
+0121.138 (0) Examining (for databases) backup set with group_id=0, nonce=b4f4a6c5607a, datestamp=1544384461 (Dec 09 2018 19:41:01)
+0121.196 (0) This backup set is the backup set just made, so will not be deleted.
+0121.196 (0) Examining (for databases) backup set with group_id=0, nonce=48a8fbf25139, datestamp=1544287964 (Dec 08 2018 16:52:44)
+0121.196 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0121.258 (0) Examining (for databases) backup set with group_id=0, nonce=bd7339d2995d, datestamp=1544287479 (Dec 08 2018 16:44:39)
+0121.259 (0) Number of backup sets in history: 3; groups (files): 1
+0121.315 (0) Examining (for files) backup set with nonce=b4f4a6c5607a, datestamp=1544384461 (Dec 09 2018 19:41:01)
+0121.315 (0) This backup set is the backup set just made, so will not be deleted.
+0121.370 (0) This backup set is the backup set just made, so will not be deleted.
+0121.370 (0) This backup set is the backup set just made, so will not be deleted.
+0121.371 (0) This backup set is the backup set just made, so will not be deleted.
+0121.371 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0121.422 (0) Examining (for files) backup set with nonce=48a8fbf25139, datestamp=1544287964 (Dec 08 2018 16:52:44)
+0121.422 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0121.422 (0) Examining (for files) backup set with nonce=bd7339d2995d, datestamp=1544287479 (Dec 08 2018 16:44:39)
+0121.422 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0121.473 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0121.704 (0) Resume backup (b4f4a6c5607a, 0): finish run
+0121.879 (0) Decremented the semaphore (fd) by 1
+0121.981 (0) Semaphore (fd) unlocked
+0122.030 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0122.183 (0) No email will/can be sent - the user has not configured an email address.
+0122.238 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Sun, 09 Dec 2018 21:12:24 +0000 on https://blog.yimian.xyz
+0000.091 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.15.7 WP: 5.0 PHP: 7.1.24 (apache2handler, Linux wordpress 3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017 x86_64) MySQL: 5.7.22-log WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.1.24 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5.7M | 6M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.141 (1) Free space on disk containing Updraft's temporary directory: 35957.5 MB
+0000.194 (1) This backup task (b4f4a6c5607a) is either complete or began over 2 days ago: ending (1544389944.7317, ) (existing jobdata keys: )

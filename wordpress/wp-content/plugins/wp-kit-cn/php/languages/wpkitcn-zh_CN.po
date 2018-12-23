@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Kit CN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-11 17:25+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Charles Tang <tngchao@gmail.com>\n"
+"Language-Team: Charles Tang <charlestang@foxmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_ngettext\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wp25\\wp-content\\plugins\\wp-kit-cn\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wp25\\wp-content\\plugins\\wp-kit-cn\n"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/wp-kit-cn.php:85
+msgid "Settings"
+msgstr "设置"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:69
+msgid "Number of Links: "
+msgstr "链接数量："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:70
+msgid "-1 means disable number limitation."
+msgstr "-1代表禁用数量限制，显示全部链接。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:72
+msgid "Order by: "
+msgstr "排序方式："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:73
+msgid "Optional ways:<br />name,rand,id,url,lenght etc."
+msgstr "可选方式有：<br />name，rand，id，url，length 等等。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:75
+msgid "Category to display: "
+msgstr "要显示的链接分类："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:76
+msgid "Comma separated list of numeric Category IDs to be displayed. "
+msgstr "将需要显示的链接分类的ID用逗号分隔填入框中。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:80
+msgid "List links in specified categories through specified way."
+msgstr "使用特定的方式显示特定分类的链接。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:82
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-advanced-blogroll.php:83
+msgid "WKC Advanced Blogroll"
+msgstr "WKC高级链接"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:56
+msgid "Most Active Commentors"
+msgstr "最活跃用户"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:69
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:72
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:69
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:69
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:82
+msgid "Title: "
+msgstr "标题："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:72
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:75
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:72
+msgid "Number of Posts: "
+msgstr "文章数量："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:75
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:75
+msgid "Number of commentors to show(-1 means no limit): "
+msgstr "显示的评论用户的数量（-1表示全部显示）："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:78
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:78
+msgid "Timespan of Days: "
+msgstr "几天之内："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:81
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:81
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:102
+msgid "Exclude the user: "
+msgstr "排除用户："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:84
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:84
+msgid "The tag before a item: "
+msgstr "列表项之前的html标签："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:87
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:87
+msgid "The tag after a item: "
+msgstr "列表项之后的html标签："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:92
+msgid "List the most active users in last few days."
+msgstr "列出过去一定天数内留言最多的用户。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:94
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-active-commentors.php:95
+msgid "WKC Most Active Commentors"
+msgstr "WKC最活跃用户"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:58
+msgid "Most Commented"
+msgstr "热评文章"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:81
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:78
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:88
+msgid "Before a Record: "
+msgstr "条目前标记（如&lt;li&gt;）："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:84
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:81
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:91
+msgid "After a Record: "
+msgstr "条目之后标记（如&lt;/li&gt;）："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:87
+msgid "Post Type to Display(page, post, or both): "
+msgstr "显示的类型（page，post 或者 both）："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:91
+msgid "Show the count number after the post name. "
+msgstr "在文章名称后面显示评论数量。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:96
+msgid "The list of your most commented posts."
+msgstr "评论最多的文章列表。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:98
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-most-commented-posts.php:99
+msgid "WKC Most Commented"
+msgstr "WKC热评文章"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:56
+msgid "Random Posts"
+msgstr "随机文章"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:75
+msgid "Length of the Excerpt: "
+msgstr "摘要的长度："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:84
+msgid "Show Password Protected Post: "
+msgstr "显示密码保护的文章："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:87
+msgid "Show Excerpt in the Link Title: "
+msgstr "在连接标题里显示摘要信息："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:88
+msgid "'true' means that the excerpt of the post will show in the title of link. <br/>'false' means that the excerpt will show directly follow the title."
+msgstr "'true' 表示文章摘要将显示在链接的标题中。<br/>'false' 表示文章摘要直接跟随在文章标题后面。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:92
+msgid "The list of random posts."
+msgstr "随机顺序文章列表。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:94
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-random-posts.php:95
+msgid "WKC Random Posts"
+msgstr "WKC随机文章"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:56
+msgid "Recent Commentors"
+msgstr "最近评论者"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:72
+msgid "Threshhold of comments: "
+msgstr "入榜最少发言次数："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:78
+msgid "Statistic type: "
+msgstr "统计类型："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:92
+msgid "This week's or this month's commentors who reply most"
+msgstr "本周或者本月内评论最多的用户。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:94
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-commentors.php:95
+msgid "WKC Recent Commentors"
+msgstr "WKC最近评论者"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:62
+msgid "Recent Comments"
+msgstr "最新评论"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:85
+msgid "Number of Comments: "
+msgstr "评论的数量："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:94
+msgid "Show Comments of Password-Protected Posts: "
+msgstr "显示密码保护文章的评论："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:97
+msgid "Comments Content Length: "
+msgstr "评论内容长度："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:99
+msgid "(<strong>0</strong> to disable)"
+msgstr "（<strong>0</strong>表示禁用）"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:105
+msgid "Gravatar size: "
+msgstr "Gravatar头像尺寸px："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:108
+msgid "The custom format of the link: "
+msgstr "评论链接的自定义格式："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:113
+msgid "Please <span style=\"color:red\"><strong>BE SURE</strong></span> to <span style=\"color:red\"><strong>KNOW</strong></span> what you are doing!"
+msgstr "请您<span style=\"color:red\"><strong>确定一定以及肯定</strong></span>地<span style=\"color:red\"><strong>知道</strong></span>您在干什么！"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:118
+msgid "This widget will list recently comments."
+msgstr "这个Widget可以列出最新评论。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:120
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/widget-recent-comments.php:121
+msgid "WKC Recent Comments"
+msgstr "WKC最新评论"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:70
+msgid "WP Kit CN: Options"
+msgstr "WP Kit CN：选项"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:70
+msgid "WP Kit CN"
+msgstr "WP Kit CN"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:84
+msgid "Options saved"
+msgstr "选项已保存"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:108
+msgid "Options of WP Kit CN have been removed, and the plugin has been deactivated."
+msgstr "WP Kit CN的所有选项已经被删除，插件已经被禁用！"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:117
+msgid "WP Kit CN Options"
+msgstr "WP Kit CN 选项"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:118
+msgid "Visit the <a href=\"http://www.charlestang.cn/wp-kit-cn.htm\">plugin's homepage</a> for further details. If you find a bug, or have a fantastic idea for this plugin, <a href=\"mailto:charlestang@foxmail.com\">ask me</a> !"
+msgstr "访问 <a href=\"http://www.charlestang.cn/wp-kit-cn.htm\">插件主页</a> 以查看详情。如果您发现任何 Bug 或有更好的主意，请 <a href=\"mailto:charlestang@foxmail.com\">与我联系</a> ！"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:123
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:125
+msgid "Auto Excerpt Settings"
+msgstr "自动摘要设置"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:127
+msgid "Enable the Excerpt Algorithm"
+msgstr "启用摘要算法"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:128
+msgid "The excerpt algorithm in this plugin will replace the original excerpt algorithm. This algorithm allows you customize how many paragraphs or how many words you want use to excerpt the post."
+msgstr "这个自动摘要算法将会取代WordPress自带的摘要算法，该算法可以兼容中文。该算法允许您自己设定摘要截取的段落数和字数。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:130
+msgid "How many words?"
+msgstr "字数？"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:133
+msgid "words."
+msgstr "字。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:136
+msgid "or How many paragraphs?"
+msgstr "段落数？"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:139
+msgid "paragraphs."
+msgstr "段。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:144
+msgid "Feed Enhancement"
+msgstr "Feed功能增强"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:147
+msgid "Related Posts Settings"
+msgstr "相关日志设置"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:149
+msgid "Add related posts list to your feed."
+msgstr "在Feed中添加相关日志列表。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:150
+msgid "The title of related posts' list"
+msgstr "相关日志列表的标题"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:151
+msgid "The display order of related posts' list"
+msgstr "相关日志列表在Feed中的出现顺序"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:154
+msgid "Add Recent Comments to Feed"
+msgstr "在Feed中添加最新评论"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:156
+msgid "Add recent comments list to your feed."
+msgstr "在Feed中添加最新评论。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:157
+msgid "The title of recent comments' list"
+msgstr "最近评论列表的标题"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:158
+msgid "The display order of recent comments' list"
+msgstr "最近评论列表在Feed中的出现顺序"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:166
+msgid "Save Changes"
+msgstr "存储选项"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:168
+msgid "Uninstall"
+msgstr "卸载"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:169
+msgid "Click the button, the options of this plugin will be removed, include the widget."
+msgstr "点击按钮，本插件所有选项将被删除，包括已经启用的Widget选项。"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:171
+msgid "Delete All Options"
+msgstr "删除所有选项"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.admin.php:206
+#, php-format
+msgid "&copy; Copyright 2008 <a href=\"http://www.charlestang.cn/\" title=\"Here With Me\">Charles Tang</a> | <a href=\"http://wordpress.org/extend/plugins/wp-kit-cn\">WP Kit CN</a> | Version %s"
+msgstr "&copy; 版权所有 2008 <a href=\"http://www.charlestang.cn/\" title=\"我在这里\">Charles Tang</a> | <a href=\"http://wordpress.org/extend/plugins/wp-kit-cn\">WP Kit CN</a> | 版本 %s"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.class.php:438
+msgid "Read More: "
+msgstr "阅读全文——共"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.class.php:438
+msgid " Words Totally"
+msgstr "字"
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.tags.php:146
+msgid "Permanent Link: "
+msgstr "永久链接："
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.tags.php:365
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.tags.php:400
+msgid "("
+msgstr "("
+
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.tags.php:365
+#: D:\xampp\htdocs\wp25\wp-content\plugins\wp-kit-cn/php/wp-kit-cn.tags.php:400
+msgid ")"
+msgstr ")"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "其他选项"
+#~ msgid "Sidebar Widgets"
+#~ msgstr "侧边栏Widget"
+#~ msgid "Load Most Commented Posts Widget."
+#~ msgstr "装载“热评文章”Widget。"
+#~ msgid "Load Recent Comments Widget."
+#~ msgstr "装载“最新评论”Widget。"
+#~ msgid "Load Random Posts Widget."
+#~ msgstr "装载“随机文章”Widget。"
+#~ msgid "Load Most Active Commentors Widget."
+#~ msgstr "装载“最活跃用户”Widget。"
+#~ msgid "Load Recent Commentors."
+#~ msgstr "装载“最近评论用户”Widget。"
+#~ msgid "Load Advanced Blogroll."
+#~ msgstr "装载“高级友链”widget。"
+
